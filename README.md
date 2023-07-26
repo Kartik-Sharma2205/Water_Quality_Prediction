@@ -11,7 +11,7 @@ The 7 models used are as follows →
 - Random Forest
 - Logistic Regression
 
-Support Vector Machine (SVM)
+▪ Support Vector Machine (SVM)
 SVM is a popular algorithm for classification and regression tasks. SVM works by finding the
 hyperplane that maximizes the margin between the two classes. In the context of water quality
 prediction, SVM can be used to classify water quality as good or bad based on the input features
